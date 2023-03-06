@@ -1,0 +1,42 @@
+.card-body {
+    min-height: 200px;
+    min-width: 150px;
+    margin-right: 5px;
+}
+.card-body2 {
+    min-height: 200px;
+    min-width: 100px;
+    margin-right: 5px;
+}
+.bg-zepto{
+    color: #483285;
+}
+.bg-zeptotext{
+    color : #ff4e4e
+}
+.bg-bgzepto{
+    background-color:#ff4e4e  ;
+}
+.zepto-nav{
+    background-color: #483285;
+    color: white;
+}
+.card-gradient{
+    background-image: linear-gradient(to right, violet, indigo, violet);
+    height: 100px;
+    align-items:center;
+}
+.main-img{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: fit-content;
+    width: 490px;
+}
+.margin-10{
+    margin-inline: 100px;
+}
+
+.how{
+    text-align:  center;
+    font-weight:  900;
+}
